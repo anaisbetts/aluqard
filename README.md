@@ -1,14 +1,7 @@
-# aluqard
+# Aluqard - a Hooks-based client for GraphQL
 
-A new Flutter package project.
+Aluqard is a library for [Flutter Hooks](https://github.com/rrousselGit/flutter_hooks)-based apps to use GraphQL, heavily based on [Draqula](https://github.com/vadimdemedes/draqula).
 
-## Getting Started
+### License
 
-This project is a starting point for a Dart
-[package](https://flutter.dev/developing-packages/),
-a library module containing code that can be shared easily across
-multiple Flutter or Dart projects.
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Aluqard is free to use for non-commercial projects, and is free to use for a 30-day trial in commercial software. If you would like to use this library in a commercial product, please contact the author at anais@anaisbetts.org to negotiate a license.

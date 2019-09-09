@@ -1,8 +1,8 @@
 name: aluqard
-description: A new Flutter package project.
-version: 0.0.1
-author:
-homepage:
+description: A Flutter Hooks-based GraphQL library that allows you to query and mutate GraphQL data sources, as well as listen to subscriptions
+version: 0.0.2
+author: Anaïs Betts <anais@anaisbetts.org>
+homepage: https://github.com/anaisbetts/aluqard
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
